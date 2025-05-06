@@ -12,7 +12,7 @@ A web-based application for managing university students, built with Laravel 9+.
 ## Setup Instructions
 
 1. Clone the repository  
-   `git clone https://github.com/prav-program/student-management.git`
+   `git clone https://github.com/prav-program/management-student.git`
 
 2. Navigate to the project  
    `cd student-management`
