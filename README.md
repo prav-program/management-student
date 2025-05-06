@@ -34,6 +34,6 @@ A web-based application for managing university students, built with Laravel 9+.
 
 - Full CRUD operations for Students
 - Teacher-student relationship management
-- Soft delete and restore functionality
+- Soft delete 
 - Integrated DataTables for pagination, search, and sorting
 - Authentication using Laravel UI (login, register, etc.)
